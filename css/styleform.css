@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+
+
+
+
+
+
+
+
+.btn{
+margin-left: 43%;
+	display: block;
+	background: navy;
+	padding: 14px 0;
+	color: black;
+	text-transform:uppercase;
+	cursor: pointer;
+	margin-top: 8px;
+	width: 200px;
+	border-radius: 6px;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
